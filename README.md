@@ -43,5 +43,5 @@ unstructured text data.
   Tokenization, Down-sampling
 
 ## 👤 Author
-Muhammad Nurhilman Bin Mohd Rozalee
-hilmanrozalee7@gmail.com
+Harith Ikhwan bin Suhaimi
+harithikhwan050604@gmail.com
